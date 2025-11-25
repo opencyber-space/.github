@@ -17,9 +17,9 @@ We believe the **Open Intelligence Web** is a key transitional step towards **op
 
 ---
 
-# ⚡ Opencyberspace Stack (Overview Grid)
+# ⚡ OpenAGI.Network Stack (Overview)
 
-Below is a high-level view of all major systems in the Opencyberspace ecosystem.
+Below is a high-level view of all major systems in the OpenAGI Network ecosystem.
 
 ### **🧠 Intelligence & Compute**
 - **AIGrid** – Open Intelligence Web  
@@ -49,7 +49,7 @@ Below is a high-level view of all major systems in the Opencyberspace ecosystem.
 
 ---
 
-# 📚 Detailed List
+# 📚 Full Stack Detailed List
 
 # Index
 
