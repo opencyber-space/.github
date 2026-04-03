@@ -38,7 +38,7 @@ Below is a high-level view of all major systems in the OpenAGI Network ecosystem
 
 ### **🧩 Exchanges, Markets & Services**
 - **ServiceGr.id** – Open Services & Tool Ecosystem  
-- **OpenHub.ai** – Open AI Market Economy  
+- **Hubless** – Open AI Market Economy  
 - **Xchange** – Open Task Exchange  
 
 ### **💾 Memory, Knowledge & Ledger**
@@ -137,15 +137,15 @@ A Distributed Ecosystem for Functions, Services, and Tools in AI and Multi-Agent
 
 ---
 
-## OpenHub.ai
+## Hubless
 **Open AI Market Economy**
 
-OpenHub.ai is the market hub for decentralized intelligence. It enables open protocol driven sourcing, distribution and routing for the networked intelligence.
+Hubless is the market hub for decentralized intelligence. It enables open protocol driven sourcing, distribution and routing for the networked intelligence.
 
-- **GitHub**: [opencyber-space/OpenHub.ai](https://github.com/opencyber-space/OpenHub.ai)
-- **Vision** **Paper**: [resources.openhub.ai](https://resources.openhub.ai)
-- **Technical** **Documentation**: [docs.openhub.ai](https://docs.openhub.ai)
-- **Website**: [openhub.ai](https://www.openhub.ai)
+- **GitHub**: [opencyber-space/Hubless](https://github.com/opencyber-space/hubless.xyz)
+- **Vision** **Paper**: [resources.Hubless](https://resources.hubless.xyz)
+- **Technical** **Documentation**: [docs.Hubless](https://docs.hubless.xyz)
+- **Website**: [Hubless](https://www.hubless.xyz)
 
 ---
 
