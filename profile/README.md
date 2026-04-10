@@ -8,11 +8,11 @@
 
 ## 🌐 OpenAGI.Network 
 
-OpenAGI.Network is an independent research & development group within **"OpenCyberspace.org"** that works on the **open, fastest, safest,** and **most efficient path to Artificial General Intelligence** — the *Open Web of Intelligence* and the *Open Web of Agents*.  
+OpenAGI.Network is an independent research & development group within **"OpenCyberspace.org"** that works on the **open, fastest, safest,** and **most efficient path to Artificial General Intelligence** — the *Internet of Intelligence*, *Open Web of Intelligence* and the *Openmind*. Read more @ openagi.network.  
 
 At OpenAGI.Network, we strive to draw from academic rigor and decade long applied AI expertise to strictly engineer at every step for **planetary scale** and **production-grade performance**.
 
-We believe the **Open Intelligence Web** is a key transitional step towards **open & decentralized AGI**, especially if you define AGI not just as a single monolithic super-intelligence, but as an **emergent property of distributed & interconnected intelligence systems that cooperate in a decentralized manner**.
+We believe the **Internet of Intelligence**, **Open Intelligence Web** & **OpenMind** are key layers towards **open & decentralized AGI**, especially if you define AGI not just as a single monolithic super-intelligence, but as an **emergent property of distributed & interconnected intelligence systems that cooperate in a decentralized manner**.
 
 
 ---
